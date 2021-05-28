@@ -1,0 +1,13 @@
+{
+  "name": "quick-sort-algo",
+  "version": "1.0.0",
+  "description": "Sort the Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sumit",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
